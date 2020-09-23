@@ -1,8 +1,8 @@
 #!/bin/bash
-# SocialPhish v1.6
+Maleficent v1.0
 # Coded by: Arjun Arz
 # Github: https://github.com/Cyberkallan/Maleficent
-# 
+# Youtube:youtube/CYBERKALLAN
 
 trap 'printf "\n";stop;exit 1' 2
 
