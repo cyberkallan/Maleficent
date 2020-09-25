@@ -21,8 +21,8 @@ Usage of Maleficent for attacking targets without prior mutual consent is illega
 ```
 git clone https://github.com/cyberkallan/Maleficent
 cd Maleficent
-chmod +x Maleficent.sh
-./Maleficent.sh
+chmod +x cyberkallan.sh
+./cyberkallan.sh
 ```
 
 ###### Donate! 
